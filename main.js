@@ -66,6 +66,7 @@ scrollReveal.reveal('.skills__data, .work__link, .contact__input', {
   interval: 200,
 });
 
+// type-It 라이브러리
 new TypeIt('#typeit', {
   speed: 70,
   startDelay: 1300,
